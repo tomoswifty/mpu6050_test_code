@@ -1,5 +1,6 @@
     #     Read Gyro and Accelerometer by Interfacing Raspberry Pi with MPU6050 using Python
     # http://www.electronicwings.com
+# git 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
 
 import smbus            #import SMBus module of I2C
 from time import sleep          #import
